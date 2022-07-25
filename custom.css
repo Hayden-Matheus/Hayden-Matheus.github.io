@@ -383,4 +383,8 @@ body
     {
         display: none;
     }
+    .skills
+    {
+        width: 90%;
+    }
 }
